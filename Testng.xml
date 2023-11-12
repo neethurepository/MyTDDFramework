@@ -1,0 +1,14 @@
+
+<suite name="SwagLabs">
+	<test name="TestNG" allow-return-values="true"> //type of testing
+	
+		<classes>
+			<class name="testLayer.LoginTest" />  //package name.class name
+		
+		</classes>
+	</test>
+
+
+</suite>
+
+
